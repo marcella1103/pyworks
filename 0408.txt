@@ -1,6 +1,33 @@
+
+https://github.com/marcella1103/green_pyworks
+
+
+
+1. get add.
+2. git commit -m"수업내용"
+3.git push
+
+
 깃허브 - 계정 생성
 깃허브 소프트웨어
 
+git config -- global user.name"본인아이디"
+
+
+클래스
+class 클래스이름():
+      변수(멤버변수)
+      함수(멤버함수)
+
+함수
+변수의 사용(사용범위)
+
+모듈
+math
+datetime
+time
+calendar
+random
 
 
 내장 함수
