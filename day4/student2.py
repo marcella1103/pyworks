@@ -15,3 +15,7 @@ print(f'{s1.name}학생은 {s1.grade}학년입니다.')
 s2 = Student("이둘", 2)
 print(f'{s2.name} 학생은 {s2.grade}학년입니다.')
 s2.learn()
+
+kim = Student("김지수", 3)
+print(f'{kim.name} 학생은 {kim.grade}학년입니다.')
+kim.learn()

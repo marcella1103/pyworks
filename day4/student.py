@@ -9,3 +9,4 @@ class Student:
 s1 = Student() #객체(인스턴스) 생성(객체 변수 - 메모리에서 실행됨)
 print(f'이름 : {s1.name}')
 print(f'학년 : {s1.grade}')
+
